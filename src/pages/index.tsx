@@ -1,10 +1,10 @@
-import Image from "next/image";
+// import Image from "next/image";
 import {useSession, signIn, signOut} from 'next-auth/react'
 // import { Geist, Geist_Mono } from "next/font/google";
 import styles from "../styles/Home.module.css"
 
 //Image
-import codeImage from "../../public/code.jpeg"
+// import codeImage from "../../public/code.jpeg"
 
 // https://images.unsplash.com/photo-1515879218367-8466d910aaa4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvZGV8ZW58MHx8MHx8fDA%3D
 // const geistSans = Geist({
